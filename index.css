@@ -1,0 +1,206 @@
+
+    body, html {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    }
+  .page4 {
+      background-image: url("http://www.bhupiitechnology.com/assets/images/cominsoon.jpg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-size: cover;
+      width: 100%;
+      height: 150px;
+      position: relative;
+      margin-top: 150px;
+     
+  }  
+  .site-title {
+      position: absolute;
+      top: 30%;
+      left: 10%;
+      z-index: 2;
+      font-family: sans-serif;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+  }
+  .site-title h4 {
+      color:#ff6601 ;
+  }
+  .site-title span {
+    color:white ;
+}
+  .overlay {
+      background:#0000008a;
+      width:100%;
+      height: 150px;
+      margin-top: -75px;
+      left: 0;
+      z-index: 1;
+  }
+.header {
+
+    width: 100vw;
+    height:70px;
+    position: fixed;
+  background-color: white;
+}
+.navbar {
+    height:70px;
+    color: #ffff;
+   
+}
+.fab {
+    padding:10px;
+}
+.foot {
+    color: white;
+    font-size: 20px;
+}
+.textlast {
+    margin-left: -30px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #aaa;
+}
+.body2 {
+    min-width: 100vw;
+    height:180px;
+    border: 1px solid white;
+}
+.services {
+    /* border:1px solid blue; */
+    height: 280px;
+    margin-top: 50px;
+    text-align: center;
+}
+.container {
+    /* border: 1px solid red; */
+   
+    /* background-color: red; */
+    /* width: 100vw;
+    height: 470px; */
+}
+@media screen and (max-width: 970px)
+{
+.services
+ {
+   margin-bottom: 200px;
+}
+}
+
+.step {
+   padding-left: 10%;
+}
+.container-fluid {
+   
+    background-color: #171717;;;
+    margin-top: 70px;
+    padding-top: 50px;
+   
+}
+.navbar-nav  {
+    margin-left: 300px;
+   
+}
+
+
+a.nav-link:hover {
+    background-color: #ff6601;
+   
+  }
+ 
+.gg {
+    margin-top: 100px;
+}
+.ok {
+    display:inline-block;
+}
+.fa {
+    font-size: 30px;
+    color:#ff6601;
+    padding-top: 6px
+}
+h3:hover {
+    color:#ff6601;
+}
+.pt {
+    height: 120px;
+    margin-top: 20px;
+   
+    margin-bottom: 40px;
+    border-radius: 6px;
+    background-color: rgb(247, 196, 162);
+    box-shadow: 0 10px 33px rgb(0 0 0 / 5%);
+}
+    
+
+.ff {
+    margin-left: 18px;
+    margin-top: 20px;
+    color: #ff8b3f;
+    font-size: 20px;
+}
+.yy {
+    margin-left: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.tt {
+    margin-left: 58px;
+}
+.service {
+    color: #ff6601;
+}
+.allservices {
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: -50px;
+}
+.service_overflow {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+h4 
+    {   color: #020d26;
+        font-size: 30px;
+        line-height: 35px;
+        font-weight: bold;
+        margin-bottom: 20px;
+}
+
+.text3 {
+    /* border: 1px solid red; */
+    padding-left:20%;
+    margin-top:30px;
+    padding-right:20%;
+    color: #777777;
+}
+.text5 {
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #777777;
+}
+.ico  {
+    color:#aaa; ;
+}
+.text15 {
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.colo {
+     font-size: 20px;
+    line-height: 25px;
+    color: #000000;;
+    padding-left: 40px;
+    margin-top: -30px;
+}
+.thover:hover  {
+color:white;
+}
